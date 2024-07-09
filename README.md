@@ -1,1 +1,1 @@
-# Game-Apples-to-Apples-EAAI25-
+# Game-Apples-to-Apples-EAAI25
